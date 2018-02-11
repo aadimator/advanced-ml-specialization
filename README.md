@@ -6,12 +6,12 @@ All the code base, images etc have been taken from the specialization, unless sp
 
 ## Courses
 
-1. [Introduction to Deep Learning](https://github.com/aadimator/advanced-ml-specialization/tree/master/1-intro-to-deep-learning) [(html)](https://aadimator.github.io/advanced-ml-specialization/1-intro-to-deep-learning)
+1. Introduction to Deep Learning - [(notebook)](https://github.com/aadimator/advanced-ml-specialization/tree/master/1-intro-to-deep-learning) [(html)](https://aadimator.github.io/advanced-ml-specialization/1-intro-to-deep-learning)
 	- [Week 1](https://github.com/aadimator/advanced-ml-specialization/tree/master/1-intro-to-deep-learning/week1)
-		- [Linear models and optimization](https://github.com/aadimator/advanced-ml-specialization/blob/master/1-intro-to-deep-learning/week1/week01_pa.ipynb) [(html)](https://aadimator.github.io/advanced-ml-specialization/1-intro-to-deep-learning/week1/week01_pa.html)
+		- Linear models and optimization - [(notebook)](https://github.com/aadimator/advanced-ml-specialization/blob/master/1-intro-to-deep-learning/week1/week01_pa.ipynb) [(html)](https://aadimator.github.io/advanced-ml-specialization/1-intro-to-deep-learning/week1/week01_pa.html)
 	- [Week 2](https://github.com/aadimator/advanced-ml-specialization/tree/master/1-intro-to-deep-learning/week2)
-		- [Tensorflow task](https://github.com/aadimator/advanced-ml-specialization/blob/master/1-intro-to-deep-learning/week2/Tensorflow-task.ipynb) [(html)](https://aadimator.github.io/advanced-ml-specialization/1-intro-to-deep-learning/week2/Tensorflow-task.html)
-		- [Keras task](https://github.com/aadimator/advanced-ml-specialization/blob/master/1-intro-to-deep-learning/week2/Keras-task.ipynb) [(html)](https://aadimator.github.io/advanced-ml-specialization/1-intro-to-deep-learning/week2/Keras-task.html)
+		- Tensorflow task - [(notebook)](https://github.com/aadimator/advanced-ml-specialization/blob/master/1-intro-to-deep-learning/week2/Tensorflow-task.ipynb) [(html)](https://aadimator.github.io/advanced-ml-specialization/1-intro-to-deep-learning/week2/Tensorflow-task.html)
+		- Keras task - [(notebook)](https://github.com/aadimator/advanced-ml-specialization/blob/master/1-intro-to-deep-learning/week2/Keras-task.ipynb) [(html)](https://aadimator.github.io/advanced-ml-specialization/1-intro-to-deep-learning/week2/Keras-task.html)
 2. How to Win a Data Science Competition: Learn from Top Kagglers
 3. Bayesian Methods for Machine Learning
 4. Introduction to Reinforcement Learning
