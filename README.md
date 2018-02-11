@@ -1,5 +1,5 @@
 # Advanced Machine Learning Specialization
-## on Coursera, by National Research University Higher School of Economics
+**on Coursera, by National Research University Higher School of Economics**
 
 These are my solutions for the exercises in the [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml). All the code base, images etc have been taken from the specialization, unless specified otherwise. 
 

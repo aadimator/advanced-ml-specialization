@@ -1,5 +1,5 @@
 # Introduction to Deep Learning
-## on Coursera, by National Research University Higher School of Economics
+**on Coursera, by National Research University Higher School of Economics**
 
 These are my solutions for the exercises in the [Introduction to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning) course that is part of the [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml) on Coursera. All the code base, images etc have been taken from the specialization, unless specified otherwise. 
 
